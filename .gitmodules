@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/Druidman/Bunnid-app.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Druidman/Bunnid-server.git
